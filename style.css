@@ -1,0 +1,14 @@
+body {
+    background: url('Background sky.avif') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Segoe UI', sans-serif;
+    min-height: 100vh;
+    color: #fff;
+  }
+  
+  .card {
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.6); /* semi-transparent */
+    color: #fff;
+  }
+  
